@@ -7,5 +7,5 @@ function happyHolidaysTo(name){
 }
 
 function happyHolidaysTo(Holiday, name){
-  return 'Happy' $(Holiday) , 
+  return 'Happy $(Holiday), $(name)'
 }
