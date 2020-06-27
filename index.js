@@ -1,1 +1,1 @@
-// write your code below!
+var date = "Happy Holidays"
